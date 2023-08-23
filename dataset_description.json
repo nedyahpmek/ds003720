@@ -20,6 +20,6 @@
         "Nakai, Koide-Majima, and Nishimoto (2021). Correspondence of categorical and feature-based representations of music in the human brain. Brain and Behavior. 11(1), e01936. https://doi.org/10.1002/brb3.1936",
         "Nakai, Koide-Majima, and Nishimoto (2022). Music genre neuroimaging dataset. Data in Brief. 40, 107675. https://doi.org/10.1016/j.dib.2021.107675"
     ],
-    "DatasetDOI": "10.18112/openneuro.ds003720.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds003720.v1.0.1",
     "BIDSVersion": "1.4.0"
 }
